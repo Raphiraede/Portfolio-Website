@@ -37,6 +37,19 @@ body {
 	width: 100%;
 }
 
+.frontbuttonwrapper{
+	width: 15%;
+}
+
+.frontbutton{
+	width: 100%;
+	padding: 50px;
+}
+
+.frontbuttonslist{
+	width: 100%;
+}
+
 .skills-logo{
 	color:blue;
 }
@@ -3037,7 +3050,7 @@ input, select, textarea {
 
 			#header .actions:after {
 				background: #ffffff;
-				content: '';
+				/* content: ''; */
 				height: 100vh;
 				left: 50%;
 				position: absolute;
