@@ -33,6 +33,10 @@ body {
 	line-height: 1;
 }
 
+.AtScaleSplashWrapper {
+	width: 100%;
+}
+
 .skills-logo{
 	color:blue;
 }
