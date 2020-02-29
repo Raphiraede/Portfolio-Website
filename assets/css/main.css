@@ -3060,6 +3060,7 @@ input, select, textarea {
 			transform: scale(1);
 			opacity: 1;
 			position: relative;
+			height: 70vh;
 			z-index: 1;
 		}
 
