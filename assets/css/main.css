@@ -33,6 +33,14 @@ body {
 	line-height: 1;
 }
 
+.projectsbuttonwrapper{
+ width: 50%;
+}
+
+.projectsbutton{
+	width: 100%
+}
+
 .AtScaleSplashWrapper {
 	width: 100%;
 }
